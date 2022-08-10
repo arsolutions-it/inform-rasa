@@ -17,6 +17,12 @@ nlu:
     - goodevening
     - good afternoon
 
+
+- intent: rating
+  examples: |
+    - [1](number)
+    - [2](number)
+
 - intent: goodbye
   examples: |
     - cu
