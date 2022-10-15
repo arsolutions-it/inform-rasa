@@ -1,3 +1,6 @@
+nlu:
+    url: "http://localhost:5000"
+    
 # This file contains the different endpoints your bot can use.
 
 # Server where the models are pulled from.
