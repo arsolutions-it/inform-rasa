@@ -19,19 +19,30 @@ nlu:
 
 
 
-- intent: affirm
+- intent: start_rent
   examples: |
-    - yes
-    - indeed
-    - of course
-    - that sounds good
-    - correct
+    - can I have a car
+    - I need a car
+    - please book a car
+    - I need to book something
 
-- intent: deny
+
+- intent: price_info
   examples: |
-    - no
-    - never
-    - I don't think so
-    - don't like that
-    - no way
-    - not really
+    - what's the price of the car
+    - how much is the car for?
+    - How much is the rent for?
+
+
+- intent: end_rent
+  examples: |
+    - end rental
+    - please stop renting
+    - I want to stop the renting
+    - end renting now
+
+- intent: show_location
+  examples: |
+    - where is the car
+    - show me the map
+    - what's the car location
