@@ -1,48 +1,19 @@
 version: "3.1"
 
+
+
 nlu:
-# - intent: rating
-#   examples: |
-#     - [1](number)
-#     - [2](number)
-#     - [one](number)
-#     - [two](number)
-#     - [three](number)
-#     - [four](number)
-#     - [five](number)
-#     - [six](number)
-#     - [seven](number)
-#     - [eight](number)
-#     - [nine](number)
-#     - [ten](number)
-
-
-
-
-- intent: start_rent
+- intent: availability
   examples: |
-    - can I have a car
-    - I need a car
-    - please book a car
-    - I need to book something
+    - is it available
 
 
-- intent: price_info
+- intent: price
   examples: |
-    - what's the price of the car
-    - how much is the car for?
-    - How much is the rent for?
+    - what is the price
 
 
-- intent: end_rent
+- intent: book
   examples: |
-    - end rental
-    - please stop renting
-    - I want to stop the renting
-    - end renting now
+    - Bookprice
 
-- intent: show_location
-  examples: |
-    - where is the car
-    - show me the map
-    - what's the car location
