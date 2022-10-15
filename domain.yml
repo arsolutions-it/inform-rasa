@@ -10,8 +10,8 @@ entities:
   - number
 
 responses:
-  # utter_greet:
-  # - text: "Hey! How are you?"
+  utter_greet:
+  - text: "Hey! How are you?"
 
   # utter_cheer_up:
   # - text: "Here is something to cheer you up:"
