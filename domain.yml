@@ -1,9 +1,33 @@
 version: "3.1"
 
 intents:
-  - availability 
-  - price
-  - book
+  - indietro
+  - avanti
+  - leggi
+  - pausa
+  - riprendi
+  - ferma
+  - sù
+  - giù
+  - report
+  - invia
+  - passo
+  - indice
+  - spunta
+  - sinistra
+  - destra
+  - linked
+  - aggiungi-nota-personale
+  - aggiungi-nota-macchina
+  - cambia-nota-personale
+  - cambia-nota-macchina
+  - scrivi
+  - cerca
+  - ultimo-check
+  - test
+  - procedura
+  - parere 
+  - descrizione
 
 entities:
   - number
