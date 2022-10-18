@@ -1,19 +1,125 @@
 version: "3.1"
 
 
-
 nlu:
-- intent: availability
+- intent: indietro
   examples: |
-    - is it available
+    - indietro
 
 
-- intent: price
+- intent: avanti
   examples: |
-    - what is the price
+    - avanti
 
 
-- intent: book
+- intent: leggi
   examples: |
-    - Bookprice
+    - leggi
+
+- intent: pausa
+  examples: |
+    - pausa
+
+- intent: riprendi
+  examples: |
+    - riprendi
+
+- intent: ferma
+  examples: |
+    - ferma
+
+- intent: sù
+  examples: |
+    - sù
+
+- intent: giù
+  examples: |
+    - giù
+
+- intent: report
+  examples: |
+    - report
+
+- intent: invia
+  examples: |
+    - invia
+
+- intent: passo
+  examples: |
+    - passo
+
+- intent: indice
+  examples: |
+    - indice
+
+- intent: invia
+  examples: |
+    - invia
+
+- intent: spunta
+  examples: |
+    - spunta
+
+- intent: sinistra
+  examples: |
+    - sinistra
+
+- intent: destra
+  examples: |
+    - destra
+
+- intent: link
+  examples: |
+    - link
+
+- intent: aggiungi-nota-personale
+  examples: |
+    - aggiungi nota personale
+
+- intent: aggiungi-nota-macchina
+  examples: |
+    - aggiungi nota macchina
+
+- intent: cambia-nota-personale
+  examples: |
+    - cambia nota personale
+
+- intent: cambia-nota-macchina
+  examples: |
+    - cambia nota macchina
+
+- intent: scrivi
+  examples: |
+    - scrivi
+
+- intent: cerca
+  examples: |
+    - cerca
+
+- intent: ultimo-check
+  examples: |
+    - ultimo check
+
+- intent: test
+  examples: |
+    - test
+
+- intent: procedura
+  examples: |
+    - procedura
+    
+- intent: parere
+  examples: |
+    - parere
+
+- intent: descrizione
+  examples: |
+    - descrizione
+
+
+
+
+
+
+
 
