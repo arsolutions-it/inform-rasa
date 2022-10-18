@@ -1,120 +1,116 @@
 version: "3.1"
 
 
-# nlu:
-# - intent: indietro
-#   examples: |
-#     - indietro
+nlu:
+- intent: indietro
+  examples: |
+    - indietro
 
 
-# - intent: avanti
-#   examples: |
-#     - avanti
+- intent: avanti
+  examples: |
+    - avanti
 
 
-# - intent: leggi
-#   examples: |
-#     - leggi
+- intent: leggi
+  examples: |
+    - leggi
 
-# - intent: pausa
-#   examples: |
-#     - pausa
+- intent: pausa
+  examples: |
+    - pausa
 
-# - intent: riprendi
-#   examples: |
-#     - riprendi
+- intent: riprendi
+  examples: |
+    - riprendi
 
-# - intent: ferma
-#   examples: |
-#     - ferma
+- intent: ferma
+  examples: |
+    - ferma
 
-# - intent: sù
-#   examples: |
-#     - sù
+- intent: sù
+  examples: |
+    - sù
 
-# - intent: giù
-#   examples: |
-#     - giù
+- intent: giù
+  examples: |
+    - giù
 
-# - intent: report
-#   examples: |
-#     - report
+- intent: report
+  examples: |
+    - report
 
 - intent: invia
   examples: |
     - invia
-    - manda 
 
 - intent: passo
   examples: |
     - passo
-    - passi
 
 - intent: indice
   examples: |
     - indice
-    - indici
 
 - intent: spunta
   examples: |
     - spunta
-    - spunte
 
-# - intent: sinistra
-#   examples: |
-#     - sinistra
+- intent: sinistra
+  examples: |
+    - sinistra
 
-# - intent: destra
-#   examples: |
-#     - destra
+- intent: destra
+  examples: |
+    - destra
 
-# - intent: linkcd 
-#   examples: |
-#     - linked
+- intent: linkcd 
+  examples: |
+    - linked
 
-# - intent: aggiungi-nota-personale
-#   examples: |
-#     - aggiungi nota personale
+- intent: aggiungi-nota-personale
+  examples: |
+    - aggiungi nota personale
 
-# - intent: aggiungi-nota-macchina
-#   examples: |
-#     - aggiungi nota macchina
+- intent: aggiungi-nota-macchina
+  examples: |
+    - aggiungi nota macchina
 
-# - intent: cambia-nota-personale
-#   examples: |
-#     - cambia nota personale
+- intent: cambia-nota-personale
+  examples: |
+    - cambia nota personale
 
-# - intent: cambia-nota-macchina
-#   examples: |
-#     - cambia nota macchina
+- intent: cambia-nota-macchina
+  examples: |
+    - cambia nota macchina
 
-# - intent: scrivi
-#   examples: |
-#     - scrivi
+- intent: scrivi
+  examples: |
+    - scrivi
 
-# - intent: cerca
-#   examples: |
-#     - cerca
+- intent: cerca
+  examples: |
+    - cerca
 
-# - intent: ultimo-check
-#   examples: |
-#     - ultimo check
+- intent: ultimo-check
+  examples: |
+    - ultimo check
 
-# - intent: test
-#   examples: |
-#     - test
+- intent: test
+  examples: |
+    - test
 
-# - intent: procedura
-#   examples: |
-#     - procedura
+- intent: procedura
+  examples: |
+    - procedura
     
-# - intent: parere
-#   examples: |
-#     - parere
+- intent: parere
+  examples: |
+    - parere
 
-# - intent: descrizione
-#   examples: |
-#     - descrizione
+- intent: descrizione
+  examples: |
+    - descrizione
 
 
 
