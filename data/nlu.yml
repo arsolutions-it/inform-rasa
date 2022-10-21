@@ -64,7 +64,7 @@ nlu:
   examples: |
     - destra
 
-- intent: linkcd 
+- intent: linked 
   examples: |
     - linked
 
