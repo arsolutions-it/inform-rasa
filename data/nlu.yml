@@ -5,36 +5,48 @@ nlu:
 - intent: indietro
   examples: |
     - indietro
+    - prima
+    - precedente
 
 
 - intent: avanti
   examples: |
     - avanti
+    - dopo
+    - successivo
 
 
 - intent: leggi
   examples: |
     - leggi
+    - parla
 
 - intent: pausa
   examples: |
     - pausa
+    - interrompi
 
 - intent: riprendi
   examples: |
     - riprendi
+    - continua
 
 - intent: ferma
   examples: |
     - ferma
+    - smetti
 
 - intent: sù
   examples: |
     - sù
+    - alto
+    - sopra
 
 - intent: giù
   examples: |
     - giù
+    - sotto
+    - basso
 
 - intent: report
   examples: |
@@ -43,10 +55,12 @@ nlu:
 - intent: invia
   examples: |
     - invia
+    - manda
 
 - intent: passo
   examples: |
     - passo
+    - step
 
 - intent: indice
   examples: |
@@ -55,6 +69,7 @@ nlu:
 - intent: spunta
   examples: |
     - spunta
+    - completato
 
 - intent: sinistra
   examples: |
@@ -64,9 +79,11 @@ nlu:
   examples: |
     - destra
 
-- intent: linked 
+- intent: link
   examples: |
-    - linked
+    - link
+    - foto
+    - immagine
 
 - intent: aggiungi-nota-personale
   examples: |
@@ -87,10 +104,13 @@ nlu:
 - intent: scrivi
   examples: |
     - scrivi
+    - compila
 
 - intent: cerca
   examples: |
     - cerca
+    - ricerca
+    - trova
 
 - intent: ultimo-check
   examples: |
