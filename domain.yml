@@ -27,7 +27,7 @@ intents:
   - test
   - procedura
   - parere 
-  - descrizione
+  - vai
 
 entities:
   - number

@@ -128,9 +128,11 @@ nlu:
   examples: |
     - parere
 
-- intent: descrizione
+- intent: vai
   examples: |
-    - descrizione
+    - vai
+    - spostati
+    - muoviti
 
 
 
